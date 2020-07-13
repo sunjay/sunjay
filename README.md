@@ -1,6 +1,6 @@
 ### Hi! I'm Sunjay. :wave:
 
-![sunjay varma](./cover.jpg)
+![sunjay varma](https://user-images.githubusercontent.com/530939/87268949-d7ee9900-c499-11ea-9518-64f730fced38.jpg)
 
 I'm a Rust programmer, compiler developer, and systems programmer who loves making games in my spare time. I teach people programming and game development at tech conferences and love creating resources to make hard technical topics accessible to a wider audience.
 
