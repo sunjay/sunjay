@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi! I'm Sunjay. :wave:
+
+![sunjay varma](./cover.jpg)
+
+I'm a Rust programmer, compiler developer, and systems programmer who loves making games in my spare time. I teach people programming and game development at tech conferences and love creating resources to make hard technical topics accessible to a wider audience.
+
+Follow me on Twitter: [@sunjay03](https://twitter.com/sunjay03) :bird: <br>
+Pronouns: he/him 
 
 <!--
 **sunjay/sunjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
